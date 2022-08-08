@@ -1,17 +1,17 @@
 
 .card-text-spacing {
-  margin-right: 1vw;
+  margin-right: .5vw;
 }
 
 @media (min-width: 576px) {
   .card-text-spacing {
-    margin-right: 5vw;
+    margin-right: 4vw;
   }
 }
 
 @media (min-width: 768px) {
   .card-text-spacing {
-    margin-right: 9vw;
+    margin-right: 8vw;
   }
 }
 
@@ -23,8 +23,6 @@
 
 .card-text-btn {
   padding: 8px;
-  padding-left: 1rem;
-  padding-right: 1rem;
   font-family: 'Patrick Hand', cursive;
   font-size: 20px;
   color: #9a9a9a;
