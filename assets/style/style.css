@@ -1,4 +1,8 @@
 
+input:invalid {
+  background: rgb(80, 27, 27);
+}
+
 .card-text-spacing {
   margin-right: 10%;
 }
