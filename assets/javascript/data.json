@@ -1,21 +1,13 @@
 {
-  "issues": [
-    {
-      "text": ""
-    }
-  ],
-  "testers": [
-    {
-      "name": "Adit"
-    },
-    {
-      "name": "Reno"
-    },
-    {
-      "name": "Ipul"
-    }
-  ],
   "changelogs": [
+    {
+      "date": "4. ( 20-09-2023 )",
+      "changelog": [
+        {
+          "text": "- Remove issues card."
+        }
+      ]
+    },
     {
       "date": "3. ( 01-09-2022 )",
       "changelog": [
@@ -24,9 +16,6 @@
         },
         {
           "text": "- Fixing error 404 on nHentai website."
-        },
-        {
-          "text": ""
         }
       ]
     },
@@ -41,9 +30,6 @@
         },
         {
           "text": "- Adding changelog card."
-        },
-        {
-          "text": ""
         }
       ]
     },
@@ -54,6 +40,17 @@
           "text": "- Release."
         }
       ]
+    }
+  ],
+  "testers": [
+    {
+      "name": "Adit"
+    },
+    {
+      "name": "Reno"
+    },
+    {
+      "name": "Ipul"
     }
   ]
 }
