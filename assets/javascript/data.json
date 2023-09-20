@@ -12,10 +12,10 @@
       "date": "3. ( 01-09-2022 )",
       "changelog": [
         {
-          "text": "- Fixing issue generate code."
+          "text": "- Fix issue generate code."
         },
         {
-          "text": "- Fixing error 404 on nHentai website."
+          "text": "- Fix error 404 on nHentai website."
         }
       ]
     },
