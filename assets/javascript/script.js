@@ -1,4 +1,4 @@
-const nuclearSrc = 'https://xioneqatsu.github.io/AlternativeNH/', readUrl = 'https://nhentai.net/g/', downloadUrl = 'https://cin.wiki/g/';
+const nuclearSrc = `${homeSrc}AlternativeNH/`, readUrl = 'https://nhentai.net/g/', downloadUrl = 'https://cin.wiki/g/';
 
 fetch(`${nuclearSrc}assets/javascript/data.json`)
 .then(file => file.json())
